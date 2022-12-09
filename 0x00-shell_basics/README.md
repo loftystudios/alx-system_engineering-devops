@@ -1,1 +1,1 @@
-"print absolute path"
+"print absolute path name"
